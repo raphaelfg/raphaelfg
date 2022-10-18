@@ -1,4 +1,4 @@
-## OLÁ!!! Eu sou a Raphael fortes!
+## OLÁ!!! Eu sou o Raphael fortes!
 <div align="center">
   <a href="https://github.com/raphaelfg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raphaelfg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
